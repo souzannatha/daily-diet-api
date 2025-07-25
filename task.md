@@ -2,8 +2,8 @@
 
 ### Estrutura inicial do projeto
 
-- [ ] Configurar o projeto (ex: Node.js + TypeScript)
-- [ ] Configurar ESLint e Prettier (opcional)
+- [x] Configurar o projeto (ex: Node.js + TypeScript)
+- [x] Configurar ESLint e Prettier (opcional)
 - [ ] Configurar banco de dados (ex: SQLite ou PostgreSQL)
 - [ ] Instalar e configurar **Knex** para migrations
 - [ ] Criar arquivo de configuração do Knex (`knexfile.ts` ou equivalente)
