@@ -4,8 +4,8 @@
 
 - [x] Configurar o projeto (ex: Node.js + TypeScript)
 - [x] Configurar ESLint e Prettier (opcional)
-- [ ] Configurar banco de dados (ex: SQLite ou PostgreSQL)
-- [ ] Instalar e configurar **Knex** para migrations
+- [x] Configurar banco de dados (ex: SQLite ou PostgreSQL)
+- [x] Instalar e configurar **Knex** para migrations
 - [ ] Criar arquivo de configuração do Knex (`knexfile.ts` ou equivalente)
 - [ ] Configurar tool de execução de migrations (`npm run knex` ou script no package.json)
 
